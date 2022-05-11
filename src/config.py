@@ -1,2 +1,2 @@
-#change it to your codeforces handle
+#type your codeforces handle here
 user_id  = ""
