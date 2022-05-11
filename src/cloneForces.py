@@ -54,7 +54,7 @@ class CF(object):
         self.unix_time  =  int(datetime.timestamp(datetime.now()))
 
         if self.user_id is None:
-            raise Exception("user_id not found. you must configure config/config.yml")
+            raise Exception("user_id not found. you must configure src/config.py")
 
     def get_submissions(self) -> None:
 
