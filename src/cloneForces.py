@@ -72,7 +72,7 @@ class CF(object):
     def get_and_write_submitted_codes(self) -> None:
     
         for record in self.submissions:
-            contest_id = (record["contestId"])
+            contest_id = record["contestId"]
             language = record["programmingLanguage"]
             problem_id = record["problem"]
             problem_name = problem_id["index"]
