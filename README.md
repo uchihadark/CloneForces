@@ -13,5 +13,4 @@ Automatically clone your Codeforces submissions to your GitHub🦾
 5. Your codes will be cloned every night to your repository, if you have new submissions.
 
 ## Acknowledgments
-This project is built on [
-kenkoooo](https://github.com/kenkoooo)'s [AtCoder Problems](https://kenkoooo.com/atcoder/) API. 
+This project is built on [Codeforces](https://codeforces.com)'s API. 
