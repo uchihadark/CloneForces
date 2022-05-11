@@ -30,7 +30,7 @@ jobs:
         git config user.name "CloneForcesBot"
         git config user.email "cfcloneforces@bot.com"
         git add .
-        git commit -m "Added my codes from AtCoder"
+        git commit -m "Added my codes from Codeforces"
         git pull
         git push origin main
         
