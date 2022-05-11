@@ -112,8 +112,8 @@ class CF(object):
         soup = BeautifulSoup(
             requests.get(submission_url).content, "html.parser"
         ).pre.string
+        browser.quit()
         return soup
-        # browser.quit()
         
 
 
